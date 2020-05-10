@@ -1,4 +1,4 @@
-//ProPresenter-vMix Configuration
+//ProPresenter-OBS Configuration
 var config = {
 	//IP and Port for ProPresenter Network Connection
 	//Enable under ProPresenter Preferences -> Network tab
