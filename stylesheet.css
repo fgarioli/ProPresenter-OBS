@@ -23,16 +23,22 @@ I use their database of information on a regular bases, and it can help you get 
 
 #cs {
   width: 60%;
-  padding: 0.5em 0;
-  font-size: 5em;
-  line-height: 1.2em;
-  letter-spacing: 1px;
   position: absolute;
   bottom: 6vh;
   margin-left: 8vh;
   text-shadow: 2px 2px 4px black;
-  background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(255,255,255,0));
-  padding: 20px 35px;
   border-radius: 30px;
   align-self: center;
+}
+
+.box {
+  font-size: 5em;
+  line-height: 1.2em;
+  letter-spacing: 1px;
+  padding: 20px 35px;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.5),
+    rgba(255, 255, 255, 0)
+  );
 }
